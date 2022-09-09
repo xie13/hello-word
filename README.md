@@ -1,2 +1,6 @@
-# hello-word
-first repository
+hello-word
+==========
+
+first repository!
+
+I like :cat2:, :tea:, and :dragon:.
